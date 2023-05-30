@@ -1,0 +1,12 @@
+body.default .social-inner-wrap a.fa-google,
+body.default .social-inner-wrap li a.fa-google:hover {
+	background: #dd4b39;
+}
+div.pro-cta-content ul li {
+    height: auto;
+    padding: 10px 0;
+}
+
+div.pro-cta-content ul li p {
+    line-height: 120%;
+}
